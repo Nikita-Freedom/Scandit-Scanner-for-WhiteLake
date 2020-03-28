@@ -14,7 +14,9 @@
  2.Android Studio последней версии. Можно скачать с официального сайта:https://developer.android.com/studio
  Пройти весь процесс установки(в том числе загрузить SDK), загрузить виртуальный девайс для проверки расширения на нем.
  
- 3.Пакет SDK (https://ssl.scandit.com/sdk/download/scandit-datacapture-android-6.2.0.zip)
+ 3.Пакет SDK: (https://ssl.scandit.com/sdk/download/scandit-datacapture-android-6.2.0.zip)
+ 
+ 4. Инструкция по интеграции библиотеки в существующий проект:(https://docs.scandit.com/data-capture-sdk/android/add-sdk.html)
  
  ### Шаги для установки apk
 Как только вы убедились, что у вас установлена и корректно работает Android studio, подключен либо виртуальный девайс, либо реальное android устройство переходите к следующим действиям:
