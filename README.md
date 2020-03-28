@@ -39,25 +39,41 @@
 ![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/4.jpg)
 
 8. Дождитесь установки APK на ваш девайс.
-9. После установки на вашем девайсе сразу откроется окно, в котором есть кнопка сканировать штрихкод
 
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_1.png)
+9. После установки приложения на телефон у вас откроется окно с вводом сервера и кнопкой под ним "сканировать штрихкод". Нажмите на эту кнопку.
 
-10. Вы также можете редакатировать поле ввода и ввести туда свой сервер. Отображение статуса подключения видно под полем ввода текста.
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scannerSCAN.png)
 
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_322.png)
+10. При нажатии на кнопку открывается окно с запросом на разрешение пользоваяни камерой. 
 
-11. Зайдите в файлы и там будет отображаться наш проводник с файлами на сервере.
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan2.jpg)
 
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_6.png)
+11. Нажмите разрешить. Перед вами будет окно с камерой и двумя кнопками снизу. Наведите камеру на штрихкод чтобы считыватель смог отсканировать его.
 
-12. Откройте проводник и посмотрите содержимое файлов и папок на вашем сервере.
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan3.jpg)
 
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_7.png)
+12. Нажмите кнопку "сканировать штрихкод". Перед вами появится активность с результатом сканирования. Сам штрихкод и его тип.
 
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan4.jpg)
+
+13. При нажатии на кнопку "поделиться" вы можете отправить результат сканирования в текстовом виде в любое приложение на смартфоне. В примере мы отправляем в сообщениях.
+
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan5.jpg)
+
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan6.jpg)
+
+14. Также в окне сканирования есть вторая кнопка, которая позволяет сорхранить штрихкод в файловое хранилище на телефоне(SD Card). Внизу можно увидеть путь, куда сохраняется изображение.
+
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan7jpg)
+
+15. Также сканер умеет сканировать сразу несколько штрих-кодов одновременно и выводить результаты на экран.
+
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan8jpg)
+
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan9pg)
 ## Построен с помощью
 
-* [SAF](https://developer.android.com/guide/topics/providers/document-provider?hl=ru) - Используется SAF.
+* [SAF](https://www.scandit.com/) - Используется SAF.
 * [Maven](https://maven.apache.org/) - Зависимость
 * [DocumentProvider](https://developer.android.com/reference/android/provider/DocumentsProvider?hl=ru) - Используется как проводник файлов.
 
