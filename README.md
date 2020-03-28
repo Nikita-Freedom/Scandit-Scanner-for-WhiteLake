@@ -66,7 +66,7 @@
 
 14. Также в окне сканирования есть вторая кнопка, которая позволяет сорхранить штрихкод в файловое хранилище на телефоне(SD Card). Внизу можно увидеть путь, куда сохраняется изображение.
 
-![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan7jpg)
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan7.jpg)
 
 15. Также сканер умеет сканировать сразу несколько штрих-кодов одновременно и выводить результаты на экран.
 
