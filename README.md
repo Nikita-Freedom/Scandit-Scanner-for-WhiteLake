@@ -13,8 +13,10 @@
 
  2.Android Studio последней версии. Можно скачать с официального сайта:https://developer.android.com/studio
  Пройти весь процесс установки(в том числе загрузить SDK), загрузить виртуальный девайс для проверки расширения на нем.
-
-### Шаги для установки apk
+ 
+ 3.Пакет SDK (https://ssl.scandit.com/sdk/download/scandit-datacapture-android-6.2.0.zip)
+ 
+ ### Шаги для установки apk
 Как только вы убедились, что у вас установлена и корректно работает Android studio, подключен либо виртуальный девайс, либо реальное android устройство переходите к следующим действиям:
 1. Скачайте отправленный вам на почту архив с APK. 
 2. Распкакуйте в указанную вами папку.
@@ -68,14 +70,14 @@
 
 15. Также сканер умеет сканировать сразу несколько штрих-кодов одновременно и выводить результаты на экран.
 
-![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan8jpg)
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan8.jpg)
 
-![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan9pg)
+![Image alt](https://github.com/Nikita-Freedom/Scandit-Scanner-for-WhiteLake/blob/master/scan9.jpg)
 ## Построен с помощью
 
-* [SAF](https://www.scandit.com/) - Используется SAF.
+* [Scandit SDK](https://www.scandit.com/) - Используется Scandit для генерации штрихкодов.
 * [Maven](https://maven.apache.org/) - Зависимость
-* [DocumentProvider](https://developer.android.com/reference/android/provider/DocumentsProvider?hl=ru) - Используется как проводник файлов.
+* [ShareSheet Android](https://developer.android.com/training/sharing/send) - Используется для отправки результата сканирования в любое приложение.
 
 ## Автор
 
